@@ -29,7 +29,7 @@ function App() {
     <div className="App">
       <header>
       <h1>
-        Anjay Bisa
+        Anjay Bisa tuh
       </h1>
       <SignOut/>
       </header>
