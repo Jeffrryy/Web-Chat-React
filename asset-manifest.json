@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Web-Chat-React/static/css/main.77c941b3.css",
-    "main.js": "/Web-Chat-React/static/js/main.74f524c4.js",
+    "main.css": "/Web-Chat-React/static/css/main.55fffd78.css",
+    "main.js": "/Web-Chat-React/static/js/main.3e5e74f1.js",
     "static/js/787.fd333685.chunk.js": "/Web-Chat-React/static/js/787.fd333685.chunk.js",
     "index.html": "/Web-Chat-React/index.html",
-    "main.77c941b3.css.map": "/Web-Chat-React/static/css/main.77c941b3.css.map",
-    "main.74f524c4.js.map": "/Web-Chat-React/static/js/main.74f524c4.js.map",
+    "main.55fffd78.css.map": "/Web-Chat-React/static/css/main.55fffd78.css.map",
+    "main.3e5e74f1.js.map": "/Web-Chat-React/static/js/main.3e5e74f1.js.map",
     "787.fd333685.chunk.js.map": "/Web-Chat-React/static/js/787.fd333685.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77c941b3.css",
-    "static/js/main.74f524c4.js"
+    "static/css/main.55fffd78.css",
+    "static/js/main.3e5e74f1.js"
   ]
 }
